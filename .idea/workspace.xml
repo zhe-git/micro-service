@@ -1,7 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1bf643c-3550-470f-be4a-c0a71f5d6cf5" name="Default Changelist" comment="" />
+    <list default="true" id="f1bf643c-3550-470f-be4a-c0a71f5d6cf5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/src/main/java/com/imooc/thrift/user/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/src/main/java/com/imooc/thrift/user/UserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/src/main/java/com/imooc/thrift/user/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/src/main/java/com/imooc/thrift/user/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserInfo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserInfo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserInfo$UserInfoStandardScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserInfo$UserInfoStandardScheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserInfo$UserInfoStandardSchemeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserInfo$UserInfoStandardSchemeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserInfo$UserInfoTupleScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserInfo$UserInfoTupleScheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserInfo$UserInfoTupleSchemeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserInfo$UserInfoTupleSchemeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserInfo$_Fields.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserInfo$_Fields.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncClient$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncClient$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncClient$getUserById_call.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncClient$getUserById_call.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncClient$getUserByName_call.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncClient$getUserByName_call.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncClient$regiserUser_call.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncClient$regiserUser_call.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncIface.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncIface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncProcessor$getUserById$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncProcessor$getUserById$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncProcessor$getUserById.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncProcessor$getUserById.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncProcessor$getUserByName$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncProcessor$getUserByName$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncProcessor$getUserByName.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncProcessor$getUserByName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncProcessor$regiserUser$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncProcessor$regiserUser$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncProcessor$regiserUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncProcessor$regiserUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$AsyncProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$Client$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$Client$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$Iface.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$Iface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$Processor$getUserById.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$Processor$getUserById.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$Processor$getUserByName.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$Processor$getUserByName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$Processor$regiserUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$Processor$regiserUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$Processor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_args$_Fields.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_args$_Fields.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_args$getUserById_argsStandardScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_args$getUserById_argsStandardScheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_args$getUserById_argsStandardSchemeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_args$getUserById_argsStandardSchemeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_args$getUserById_argsTupleScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_args$getUserById_argsTupleScheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_args$getUserById_argsTupleSchemeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_args$getUserById_argsTupleSchemeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_args.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_args.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_result$_Fields.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_result$_Fields.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_result$getUserById_resultStandardScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_result$getUserById_resultStandardScheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_result$getUserById_resultStandardSchemeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_result$getUserById_resultStandardSchemeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_result$getUserById_resultTupleScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_result$getUserById_resultTupleScheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_result$getUserById_resultTupleSchemeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_result$getUserById_resultTupleSchemeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_result.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserById_result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_args$_Fields.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_args$_Fields.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_args$getUserByName_argsStandardScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_args$getUserByName_argsStandardScheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_args$getUserByName_argsStandardSchemeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_args$getUserByName_argsStandardSchemeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_args$getUserByName_argsTupleScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_args$getUserByName_argsTupleScheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_args$getUserByName_argsTupleSchemeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_args$getUserByName_argsTupleSchemeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_args.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_args.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_result$_Fields.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_result$_Fields.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_result$getUserByName_resultStandardScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_result$getUserByName_resultStandardScheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_result$getUserByName_resultStandardSchemeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_result$getUserByName_resultStandardSchemeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_result$getUserByName_resultTupleScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_result$getUserByName_resultTupleScheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_result$getUserByName_resultTupleSchemeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_result$getUserByName_resultTupleSchemeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_result.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$getUserByName_result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_args$_Fields.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_args$_Fields.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_args$regiserUser_argsStandardScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_args$regiserUser_argsStandardScheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_args$regiserUser_argsStandardSchemeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_args$regiserUser_argsStandardSchemeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_args$regiserUser_argsTupleScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_args$regiserUser_argsTupleScheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_args$regiserUser_argsTupleSchemeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_args$regiserUser_argsTupleSchemeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_args.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_args.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_result$_Fields.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_result$_Fields.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_result$regiserUser_resultStandardScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_result$regiserUser_resultStandardScheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_result$regiserUser_resultStandardSchemeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_result$regiserUser_resultStandardSchemeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_result$regiserUser_resultTupleScheme.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_result$regiserUser_resultTupleScheme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_result$regiserUser_resultTupleSchemeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_result$regiserUser_resultTupleSchemeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_result.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService$regiserUser_result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/thrift/user_service.thrift" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/thrift/user_service.thrift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service/src/main/java/com/imooc/user/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service/src/main/java/com/imooc/user/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service/src/main/java/com/imooc/user/service/UserSerivceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service/src/main/java/com/imooc/user/service/UserSerivceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +86,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -24,6 +103,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1a90dcwia5CgNKuaGk1j03dDQgR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,20 +120,25 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.8" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.imooc.thrift.user.dto" />
       <recent name="com.imooc.user" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.imooc.course.dto" />
+      <recent name="com.imooc.course.dto.CourseDTO" />
+    </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.user-edge-service">
+  <component name="RunManager" selected="Spring Boot.ServiceApplication">
     <configuration name="gen-code.sh (1)" type="BashConfigurationType" factoryName="Bash" temporary="true">
       <module name="user-thrift-service-api" />
       <option name="INTERPRETER_OPTIONS" value="bash" />
@@ -60,19 +147,6 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/user-thrift-service-api/thrift" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/user-thrift-service-api/thrift/gen-code.sh" />
-      <option name="PARAMETERS" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="gen-code.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
-      <module name="message-thrift-python-service" />
-      <option name="INTERPRETER_OPTIONS" value="bash" />
-      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
-      <option name="PROJECT_INTERPRETER" value="false" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/message-thrift-python-service/thrift" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/message-thrift-python-service/thrift/gen-code.sh" />
       <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,6 +173,19 @@
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
+    </configuration>
+    <configuration name="ServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="course-dubbo-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.course.ServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="user-edge-service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="user-edge-service" />
@@ -129,19 +216,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Bash.gen-code.sh" />
       <item itemvalue="Bash.gen-code.sh (1)" />
       <item itemvalue="Python.message_service" />
       <item itemvalue="Spring Boot.user-edge-service" />
       <item itemvalue="Spring Boot.user-thrift-service" />
+      <item itemvalue="Spring Boot.ServiceApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ServiceApplication" />
+        <item itemvalue="Bash.gen-code.sh (1)" />
         <item itemvalue="Spring Boot.user-edge-service" />
         <item itemvalue="Python.message_service" />
         <item itemvalue="Spring Boot.user-thrift-service" />
-        <item itemvalue="Bash.gen-code.sh (1)" />
-        <item itemvalue="Bash.gen-code.sh" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +243,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586132590836</updated>
       <workItem from="1586132594239" duration="5635000" />
+      <workItem from="1586198633296" duration="5038000" />
     </task>
     <servers />
   </component>
@@ -175,58 +263,77 @@
       <screen x="0" y="23" width="1283" height="889" />
     </state>
     <state x="105" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1283.889@0.23.1283.889" timestamp="1586137680608" />
-    <state x="453" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1586137472603">
-      <screen x="0" y="23" width="1283" height="889" />
+    <state x="463" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1586205623263">
+      <screen x="0" y="23" width="1311" height="904" />
     </state>
     <state x="453" y="166" key="#com.intellij.ide.util.MemberChooser/0.23.1283.889@0.23.1283.889" timestamp="1586137472603" />
-    <state width="1145" height="214" key="GridCell.Tab.0.bottom" timestamp="1586142648832">
-      <screen x="0" y="23" width="1283" height="889" />
+    <state x="463" y="168" key="#com.intellij.ide.util.MemberChooser/0.23.1311.904@0.23.1311.904" timestamp="1586205623263" />
+    <state width="1189" height="214" key="GridCell.Tab.0.bottom" timestamp="1586207722981">
+      <screen x="0" y="23" width="1311" height="904" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.0.bottom/0.23.1283.889@0.23.1283.889" timestamp="1586142648832" />
-    <state width="1145" height="214" key="GridCell.Tab.0.center" timestamp="1586142648831">
-      <screen x="0" y="23" width="1283" height="889" />
+    <state width="1189" height="214" key="GridCell.Tab.0.bottom/0.23.1311.904@0.23.1311.904" timestamp="1586207722981" />
+    <state width="1189" height="214" key="GridCell.Tab.0.center" timestamp="1586207722978">
+      <screen x="0" y="23" width="1311" height="904" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.0.center/0.23.1283.889@0.23.1283.889" timestamp="1586142648831" />
-    <state width="1145" height="214" key="GridCell.Tab.0.left" timestamp="1586142648830">
-      <screen x="0" y="23" width="1283" height="889" />
+    <state width="1189" height="214" key="GridCell.Tab.0.center/0.23.1311.904@0.23.1311.904" timestamp="1586207722978" />
+    <state width="1189" height="214" key="GridCell.Tab.0.left" timestamp="1586207722972">
+      <screen x="0" y="23" width="1311" height="904" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.0.left/0.23.1283.889@0.23.1283.889" timestamp="1586142648830" />
-    <state width="1145" height="214" key="GridCell.Tab.0.right" timestamp="1586142648831">
-      <screen x="0" y="23" width="1283" height="889" />
+    <state width="1189" height="214" key="GridCell.Tab.0.left/0.23.1311.904@0.23.1311.904" timestamp="1586207722972" />
+    <state width="1189" height="214" key="GridCell.Tab.0.right" timestamp="1586207722980">
+      <screen x="0" y="23" width="1311" height="904" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.0.right/0.23.1283.889@0.23.1283.889" timestamp="1586142648831" />
-    <state width="1145" height="214" key="GridCell.Tab.1.bottom" timestamp="1586142648834">
-      <screen x="0" y="23" width="1283" height="889" />
+    <state width="1189" height="214" key="GridCell.Tab.0.right/0.23.1311.904@0.23.1311.904" timestamp="1586207722980" />
+    <state width="1189" height="214" key="GridCell.Tab.1.bottom" timestamp="1586207593625">
+      <screen x="0" y="23" width="1311" height="904" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.1.bottom/0.23.1283.889@0.23.1283.889" timestamp="1586142648834" />
-    <state width="1145" height="214" key="GridCell.Tab.1.center" timestamp="1586142648833">
-      <screen x="0" y="23" width="1283" height="889" />
+    <state width="1189" height="214" key="GridCell.Tab.1.bottom/0.23.1311.904@0.23.1311.904" timestamp="1586207593625" />
+    <state width="1189" height="214" key="GridCell.Tab.1.center" timestamp="1586207593624">
+      <screen x="0" y="23" width="1311" height="904" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.1.center/0.23.1283.889@0.23.1283.889" timestamp="1586142648833" />
-    <state width="1145" height="214" key="GridCell.Tab.1.left" timestamp="1586142648832">
-      <screen x="0" y="23" width="1283" height="889" />
+    <state width="1189" height="214" key="GridCell.Tab.1.center/0.23.1311.904@0.23.1311.904" timestamp="1586207593624" />
+    <state width="1189" height="214" key="GridCell.Tab.1.left" timestamp="1586207593623">
+      <screen x="0" y="23" width="1311" height="904" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.1.left/0.23.1283.889@0.23.1283.889" timestamp="1586142648832" />
-    <state width="1145" height="214" key="GridCell.Tab.1.right" timestamp="1586142648834">
-      <screen x="0" y="23" width="1283" height="889" />
+    <state width="1189" height="214" key="GridCell.Tab.1.left/0.23.1311.904@0.23.1311.904" timestamp="1586207593623" />
+    <state width="1189" height="214" key="GridCell.Tab.1.right" timestamp="1586207593624">
+      <screen x="0" y="23" width="1311" height="904" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.1.right/0.23.1283.889@0.23.1283.889" timestamp="1586142648834" />
+    <state width="1189" height="214" key="GridCell.Tab.1.right/0.23.1311.904@0.23.1311.904" timestamp="1586207593624" />
     <state x="178" y="111" key="Maven.ArtifactSearchDialog" timestamp="1586128579103">
       <screen x="0" y="23" width="1283" height="889" />
     </state>
     <state x="178" y="111" key="Maven.ArtifactSearchDialog/0.23.1283.889@0.23.1283.889" timestamp="1586128579103" />
+    <state x="121" y="43" key="SettingsEditor" timestamp="1586207649945">
+      <screen x="0" y="23" width="1311" height="904" />
+    </state>
+    <state x="121" y="43" key="SettingsEditor/0.23.1311.904@0.23.1311.904" timestamp="1586207649945" />
+    <state x="311" y="292" key="com.intellij.ide.util.TipDialog" timestamp="1586198646214">
+      <screen x="0" y="23" width="1311" height="904" />
+    </state>
+    <state x="311" y="292" key="com.intellij.ide.util.TipDialog/0.23.1311.904@0.23.1311.904" timestamp="1586198646214" />
     <state x="399" y="127" width="667" height="729" key="find.popup" timestamp="1586142348648">
       <screen x="0" y="23" width="1283" height="889" />
     </state>
     <state x="399" y="127" width="667" height="729" key="find.popup/0.23.1283.889@0.23.1283.889" timestamp="1586142348648" />
-    <state x="35" y="113" key="new project wizard" timestamp="1586138673003">
-      <screen x="0" y="23" width="1283" height="889" />
+    <state x="36" y="115" key="new project wizard" timestamp="1586204860538">
+      <screen x="0" y="23" width="1311" height="904" />
     </state>
     <state x="35" y="113" key="new project wizard/0.23.1283.889@0.23.1283.889" timestamp="1586138673003" />
-    <state x="323" y="217" width="670" height="676" key="search.everywhere.popup" timestamp="1586142172529">
-      <screen x="0" y="23" width="1283" height="889" />
+    <state x="36" y="115" key="new project wizard/0.23.1311.904@0.23.1311.904" timestamp="1586204860538" />
+    <state x="330" y="220" width="685" height="688" key="search.everywhere.popup" timestamp="1586205824565">
+      <screen x="0" y="23" width="1311" height="904" />
     </state>
     <state x="323" y="217" width="670" height="676" key="search.everywhere.popup/0.23.1283.889@0.23.1283.889" timestamp="1586142172529" />
+    <state x="330" y="220" width="685" height="688" key="search.everywhere.popup/0.23.1311.904@0.23.1311.904" timestamp="1586205824565" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/micro_service$message_service.coverage" NAME="message_service Coverage Results" MODIFIED="1586138431861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/message-thrift-python-service/message" />
