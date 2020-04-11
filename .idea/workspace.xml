@@ -2,26 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1bf643c-3550-470f-be4a-c0a71f5d6cf5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway-zuul/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-zuul/target/api-gateway-zuul-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway-zuul/target/api-gateway-zuul-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-zuul/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway-zuul/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-dubbo-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/course-dubbo-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-dubbo-service/src/main/java/com/imooc/course/service/CourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/course-dubbo-service/src/main/java/com/imooc/course/service/CourseServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-dubbo-service/target/classes/com/imooc/course/service/CourseServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/course-dubbo-service/target/classes/com/imooc/course/service/CourseServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-dubbo-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/course-dubbo-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-dubbo-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/course-dubbo-service/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-dubbo-service/target/course-dubbo-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/course-dubbo-service/target/course-dubbo-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-edge-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/course-edge-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-edge-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/course-edge-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-edge-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/course-edge-service/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-edge-service/target/course-edge-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/course-edge-service/target/course-edge-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-edge-service-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-edge-service-client/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user-edge-service-client/src/main/java/com/imooc/user/client/LoginFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-edge-service-client/src/main/java/com/imooc/user/client/LoginFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/src/main/java/com/imooc/thrift/user/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/src/main/java/com/imooc/thrift/user/dto/UserDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/dto/UserDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service-api/target/classes/com/imooc/thrift/user/dto/UserDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-thrift-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-thrift-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-thrift-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-thrift-service/target/classes/com/imooc/user/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service/target/classes/com/imooc/user/mapper/UserMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-thrift-service/target/classes/com/imooc/user/service/UserSerivceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service/target/classes/com/imooc/user/service/UserSerivceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-edge-service-client/target/classes/com/imooc/user/client/LoginFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-edge-service-client/target/classes/com/imooc/user/client/LoginFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-edge-service-client/target/user-edge-service-client-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/user-edge-service-client/target/user-edge-service-client-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-edge-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-edge-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-edge-service/src/main/java/com/imooc/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-edge-service/src/main/java/com/imooc/user/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-edge-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user-edge-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-edge-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user-edge-service/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-edge-service/target/classes/com/imooc/user/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-edge-service/target/classes/com/imooc/user/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-edge-service/target/user-edge-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/user-edge-service/target/user-edge-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service/target/user-thrift-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service/target/user-thrift-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-thrift-service/target/user-thrift-service-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/user-thrift-service/target/user-thrift-service-1.0-SNAPSHOT.jar.original" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,11 +88,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api-gateway-zuul" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api-gateway-zuul" />
+      <recent name="$PROJECT_DIR$/course-edge-service" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.imooc.thrift.user.dto" />
       <recent name="com.imooc.user" />
@@ -78,95 +107,102 @@
       <recent name="com.imooc.course.dto.CourseDTO" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ServiceApplication (1)">
-    <configuration name="message_service" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Bash.build.sh (4)">
+    <configuration name="build_base.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
       <module name="message-thrift-python-service" />
-      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/message-thrift-python-service" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/message-thrift-python-service/message" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/message-thrift-python-service/message/message_service.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/message-thrift-python-service/build_base.sh" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="user-edge-service" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.imooc.user.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.user.ServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="course-dubbo-service" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.imooc.course.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.course.ServiceApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ServiceApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="build.sh (2)" type="BashConfigurationType" factoryName="Bash" temporary="true">
       <module name="course-edge-service" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.imooc.course.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.course.ServiceApplication" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course-edge-service" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course-edge-service/build.sh" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="user-thrift-service" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.imooc.user.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.user.ServiceApplication" />
+    <configuration name="build.sh (3)" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="course-dubbo-service" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course-dubbo-service" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course-dubbo-service/build.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build.sh (4)" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="api-gateway-zuul" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api-gateway-zuul" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api-gateway-zuul/build.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="message-thrift-python-service" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/message-thrift-python-service" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/message-thrift-python-service/build.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-gateway-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.zuul.ServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="course-edge-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.course.ServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Python.message_service" />
+      <item itemvalue="Bash.build.sh" />
       <item itemvalue="Spring Boot.ServiceApplication" />
       <item itemvalue="Spring Boot.ServiceApplication (1)" />
-      <item itemvalue="Spring Boot.ServiceApplication (2)" />
-      <item itemvalue="Spring Boot.ServiceApplication (3)" />
+      <item itemvalue="Bash.build_base.sh" />
+      <item itemvalue="Bash.build.sh (2)" />
+      <item itemvalue="Bash.build.sh (3)" />
+      <item itemvalue="Bash.build.sh (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ServiceApplication (3)" />
-        <item itemvalue="Spring Boot.ServiceApplication (2)" />
-        <item itemvalue="Spring Boot.ServiceApplication (1)" />
-        <item itemvalue="Spring Boot.ServiceApplication" />
-        <item itemvalue="Python.message_service" />
+        <item itemvalue="Bash.build.sh (4)" />
+        <item itemvalue="Bash.build.sh (3)" />
+        <item itemvalue="Bash.build.sh (2)" />
+        <item itemvalue="Bash.build.sh" />
+        <item itemvalue="Bash.build_base.sh" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +217,9 @@
       <option name="presentableId" value="Default" />
       <updated>1586132590836</updated>
       <workItem from="1586132594239" duration="5635000" />
-      <workItem from="1586198633296" duration="18147000" />
+      <workItem from="1586198633296" duration="28764000" />
+      <workItem from="1586580231098" duration="1428000" />
+      <workItem from="1586637827081" duration="937000" />
     </task>
     <servers />
   </component>
@@ -189,10 +227,11 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="115" key="#Project_Structure" timestamp="1586139711877">
-      <screen x="0" y="23" width="1283" height="889" />
+    <state x="296" y="120" key="#Project_Structure" timestamp="1586571010699">
+      <screen x="0" y="23" width="1583" height="935" />
     </state>
     <state x="240" y="115" key="#Project_Structure/0.23.1283.889@0.23.1283.889" timestamp="1586139711877" />
+    <state x="296" y="120" key="#Project_Structure/0.23.1583.935@0.23.1583.935" timestamp="1586571010699" />
     <state x="265" y="83" key="#ServiceApplication" timestamp="1586137625368">
       <screen x="0" y="23" width="1283" height="889" />
     </state>
@@ -203,74 +242,82 @@
     <state x="105" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1283.889@0.23.1283.889" timestamp="1586137680608" />
     <state x="461" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1583.935@0.23.1583.935" timestamp="1586297013493" />
     <state x="463" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1589.891@0.23.1589.891" timestamp="1586235263781" />
+    <state x="0" y="23" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586294507703">
+      <screen x="0" y="23" width="1583" height="935" />
+    </state>
+    <state x="0" y="23" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1583.935@0.23.1583.935" timestamp="1586294507703" />
     <state x="561" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1586235094563">
       <screen x="0" y="23" width="1589" height="891" />
     </state>
     <state x="453" y="166" key="#com.intellij.ide.util.MemberChooser/0.23.1283.889@0.23.1283.889" timestamp="1586137472603" />
     <state x="463" y="168" key="#com.intellij.ide.util.MemberChooser/0.23.1311.904@0.23.1311.904" timestamp="1586205623263" />
     <state x="561" y="166" key="#com.intellij.ide.util.MemberChooser/0.23.1589.891@0.23.1589.891" timestamp="1586235094563" />
-    <state width="1286" height="175" key="GridCell.Tab.0.bottom" timestamp="1586292799156">
-      <screen x="0" y="23" width="1583" height="935" />
+    <state width="1286" height="175" key="GridCell.Tab.0.bottom" timestamp="1586640035856">
+      <screen x="0" y="23" width="1534" height="908" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.0.bottom/0.23.1283.889@0.23.1283.889" timestamp="1586142648832" />
     <state width="1189" height="214" key="GridCell.Tab.0.bottom/0.23.1311.904@0.23.1311.904" timestamp="1586207722981" />
-    <state width="1286" height="175" key="GridCell.Tab.0.bottom/0.23.1583.935@0.23.1583.935" timestamp="1586292799156" />
+    <state width="1286" height="175" key="GridCell.Tab.0.bottom/0.23.1534.908@0.23.1534.908" timestamp="1586640035856" />
+    <state width="1286" height="175" key="GridCell.Tab.0.bottom/0.23.1583.935@0.23.1583.935" timestamp="1586577710673" />
     <state width="1096" height="132" key="GridCell.Tab.0.bottom/0.23.1589.891@0.23.1589.891" timestamp="1586288360925" />
     <state width="1189" height="214" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1586230447631" />
-    <state width="1286" height="175" key="GridCell.Tab.0.center" timestamp="1586292799154">
-      <screen x="0" y="23" width="1583" height="935" />
+    <state width="1286" height="175" key="GridCell.Tab.0.center" timestamp="1586640035843">
+      <screen x="0" y="23" width="1534" height="908" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.0.center/0.23.1283.889@0.23.1283.889" timestamp="1586142648831" />
     <state width="1189" height="214" key="GridCell.Tab.0.center/0.23.1311.904@0.23.1311.904" timestamp="1586207722978" />
-    <state width="1286" height="175" key="GridCell.Tab.0.center/0.23.1583.935@0.23.1583.935" timestamp="1586292799154" />
+    <state width="1286" height="175" key="GridCell.Tab.0.center/0.23.1534.908@0.23.1534.908" timestamp="1586640035843" />
+    <state width="1286" height="175" key="GridCell.Tab.0.center/0.23.1583.935@0.23.1583.935" timestamp="1586577710655" />
     <state width="1096" height="132" key="GridCell.Tab.0.center/0.23.1589.891@0.23.1589.891" timestamp="1586288360923" />
     <state width="1189" height="214" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1586230447629" />
-    <state width="1286" height="175" key="GridCell.Tab.0.left" timestamp="1586292799153">
-      <screen x="0" y="23" width="1583" height="935" />
+    <state width="1286" height="175" key="GridCell.Tab.0.left" timestamp="1586640035823">
+      <screen x="0" y="23" width="1534" height="908" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.0.left/0.23.1283.889@0.23.1283.889" timestamp="1586142648830" />
     <state width="1189" height="214" key="GridCell.Tab.0.left/0.23.1311.904@0.23.1311.904" timestamp="1586207722972" />
-    <state width="1286" height="175" key="GridCell.Tab.0.left/0.23.1583.935@0.23.1583.935" timestamp="1586292799153" />
+    <state width="1286" height="175" key="GridCell.Tab.0.left/0.23.1534.908@0.23.1534.908" timestamp="1586640035823" />
+    <state width="1286" height="175" key="GridCell.Tab.0.left/0.23.1583.935@0.23.1583.935" timestamp="1586577710653" />
     <state width="1096" height="132" key="GridCell.Tab.0.left/0.23.1589.891@0.23.1589.891" timestamp="1586288360922" />
     <state width="1189" height="214" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1586230447628" />
-    <state width="1286" height="175" key="GridCell.Tab.0.right" timestamp="1586292799155">
-      <screen x="0" y="23" width="1583" height="935" />
+    <state width="1286" height="175" key="GridCell.Tab.0.right" timestamp="1586640035849">
+      <screen x="0" y="23" width="1534" height="908" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.0.right/0.23.1283.889@0.23.1283.889" timestamp="1586142648831" />
     <state width="1189" height="214" key="GridCell.Tab.0.right/0.23.1311.904@0.23.1311.904" timestamp="1586207722980" />
-    <state width="1286" height="175" key="GridCell.Tab.0.right/0.23.1583.935@0.23.1583.935" timestamp="1586292799155" />
+    <state width="1286" height="175" key="GridCell.Tab.0.right/0.23.1534.908@0.23.1534.908" timestamp="1586640035849" />
+    <state width="1286" height="175" key="GridCell.Tab.0.right/0.23.1583.935@0.23.1583.935" timestamp="1586577710667" />
     <state width="1096" height="132" key="GridCell.Tab.0.right/0.23.1589.891@0.23.1589.891" timestamp="1586288360924" />
     <state width="1189" height="214" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1586230447630" />
-    <state width="1286" height="175" key="GridCell.Tab.1.bottom" timestamp="1586292430933">
+    <state width="1286" height="237" key="GridCell.Tab.1.bottom" timestamp="1586555578188">
       <screen x="0" y="23" width="1583" height="935" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.1.bottom/0.23.1283.889@0.23.1283.889" timestamp="1586142648834" />
     <state width="1189" height="214" key="GridCell.Tab.1.bottom/0.23.1311.904@0.23.1311.904" timestamp="1586207593625" />
-    <state width="1286" height="175" key="GridCell.Tab.1.bottom/0.23.1583.935@0.23.1583.935" timestamp="1586292430933" />
+    <state width="1286" height="237" key="GridCell.Tab.1.bottom/0.23.1583.935@0.23.1583.935" timestamp="1586555578188" />
     <state width="1096" height="132" key="GridCell.Tab.1.bottom/0.23.1589.891@0.23.1589.891" timestamp="1586288360928" />
     <state width="1189" height="214" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1586230447633" />
-    <state width="1286" height="175" key="GridCell.Tab.1.center" timestamp="1586292430927">
+    <state width="1286" height="237" key="GridCell.Tab.1.center" timestamp="1586555578187">
       <screen x="0" y="23" width="1583" height="935" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.1.center/0.23.1283.889@0.23.1283.889" timestamp="1586142648833" />
     <state width="1189" height="214" key="GridCell.Tab.1.center/0.23.1311.904@0.23.1311.904" timestamp="1586207593624" />
-    <state width="1286" height="175" key="GridCell.Tab.1.center/0.23.1583.935@0.23.1583.935" timestamp="1586292430927" />
+    <state width="1286" height="237" key="GridCell.Tab.1.center/0.23.1583.935@0.23.1583.935" timestamp="1586555578187" />
     <state width="1096" height="132" key="GridCell.Tab.1.center/0.23.1589.891@0.23.1589.891" timestamp="1586288360926" />
     <state width="1189" height="214" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1586230447632" />
-    <state width="1286" height="175" key="GridCell.Tab.1.left" timestamp="1586292430925">
+    <state width="1286" height="237" key="GridCell.Tab.1.left" timestamp="1586555578186">
       <screen x="0" y="23" width="1583" height="935" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.1.left/0.23.1283.889@0.23.1283.889" timestamp="1586142648832" />
     <state width="1189" height="214" key="GridCell.Tab.1.left/0.23.1311.904@0.23.1311.904" timestamp="1586207593623" />
-    <state width="1286" height="175" key="GridCell.Tab.1.left/0.23.1583.935@0.23.1583.935" timestamp="1586292430925" />
+    <state width="1286" height="237" key="GridCell.Tab.1.left/0.23.1583.935@0.23.1583.935" timestamp="1586555578186" />
     <state width="1096" height="132" key="GridCell.Tab.1.left/0.23.1589.891@0.23.1589.891" timestamp="1586288360926" />
     <state width="1189" height="214" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1586230447631" />
-    <state width="1286" height="175" key="GridCell.Tab.1.right" timestamp="1586292430929">
+    <state width="1286" height="237" key="GridCell.Tab.1.right" timestamp="1586555578187">
       <screen x="0" y="23" width="1583" height="935" />
     </state>
     <state width="1145" height="214" key="GridCell.Tab.1.right/0.23.1283.889@0.23.1283.889" timestamp="1586142648834" />
     <state width="1189" height="214" key="GridCell.Tab.1.right/0.23.1311.904@0.23.1311.904" timestamp="1586207593624" />
-    <state width="1286" height="175" key="GridCell.Tab.1.right/0.23.1583.935@0.23.1583.935" timestamp="1586292430929" />
+    <state width="1286" height="237" key="GridCell.Tab.1.right/0.23.1583.935@0.23.1583.935" timestamp="1586555578187" />
     <state width="1096" height="132" key="GridCell.Tab.1.right/0.23.1589.891@0.23.1589.891" timestamp="1586288360927" />
     <state width="1189" height="214" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1586230447633" />
     <state width="1286" height="284" key="GridCell.Tab.2.bottom" timestamp="1586297031894">
@@ -302,10 +349,12 @@
     </state>
     <state x="121" y="43" key="SettingsEditor/0.23.1311.904@0.23.1311.904" timestamp="1586207649945" />
     <state x="359" y="65" key="SettingsEditor/0.23.1589.891@0.23.1589.891" timestamp="1586239800764" />
-    <state x="311" y="292" key="com.intellij.ide.util.TipDialog" timestamp="1586198646214">
-      <screen x="0" y="23" width="1311" height="904" />
+    <state x="364" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1586637835621">
+      <screen x="0" y="23" width="1534" height="908" />
     </state>
     <state x="311" y="292" key="com.intellij.ide.util.TipDialog/0.23.1311.904@0.23.1311.904" timestamp="1586198646214" />
+    <state x="364" y="293" key="com.intellij.ide.util.TipDialog/0.23.1534.908@0.23.1534.908" timestamp="1586637835621" />
+    <state x="376" y="301" key="com.intellij.ide.util.TipDialog/0.23.1583.935@0.23.1583.935" timestamp="1586580281066" />
     <state x="399" y="127" width="667" height="729" key="find.popup" timestamp="1586142348648">
       <screen x="0" y="23" width="1283" height="889" />
     </state>
@@ -317,11 +366,12 @@
     <state x="36" y="115" key="new project wizard/0.23.1311.904@0.23.1311.904" timestamp="1586204860538" />
     <state x="43" y="110" key="new project wizard/0.23.1552.851@0.23.1552.851" timestamp="1586230674474" />
     <state x="44" y="119" key="new project wizard/0.23.1583.935@0.23.1583.935" timestamp="1586277361840" />
-    <state x="400" y="217" width="831" height="679" key="search.everywhere.popup" timestamp="1586243407235">
-      <screen x="0" y="23" width="1589" height="891" />
+    <state x="398" y="227" width="828" height="713" key="search.everywhere.popup" timestamp="1586576351178">
+      <screen x="0" y="23" width="1583" height="935" />
     </state>
     <state x="323" y="217" width="670" height="676" key="search.everywhere.popup/0.23.1283.889@0.23.1283.889" timestamp="1586142172529" />
     <state x="330" y="220" width="685" height="688" key="search.everywhere.popup/0.23.1311.904@0.23.1311.904" timestamp="1586205824565" />
+    <state x="398" y="227" width="828" height="713" key="search.everywhere.popup/0.23.1583.935@0.23.1583.935" timestamp="1586576351178" />
     <state x="400" y="217" width="831" height="679" key="search.everywhere.popup/0.23.1589.891@0.23.1589.891" timestamp="1586243407235" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
